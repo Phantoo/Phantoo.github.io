@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://Phantoo.github.io//sitemap.xml
