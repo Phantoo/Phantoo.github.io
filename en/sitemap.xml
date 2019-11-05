@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url><loc>https://phantoo.github.io/about
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="fr"
+                  href="https://phantoo.github.io/fr/about"
+                  />
+      
+    </url>
+  
+  <url></url>
+  
+  <url></url>
+  
+  <url><loc>https://phantoo.github.io/work
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="fr"
+                  href="https://phantoo.github.io/fr/work"
+                  />
+      
+    </url>
+  
+  <url><loc>https://phantoo.github.io/contact
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="fr"
+                  href="https://phantoo.github.io/fr/contact"
+                  />
+      
+    </url>
+  
+  <url></url>
+  
+  <url><loc>https://phantoo.github.io/categories
+    </loc>
+    <priority>0</priority>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="fr"
+                  href="https://phantoo.github.io/fr/categories"
+                  />
+      
+    </url>
+  
+  <url><loc>https://phantoo.github.io
+    </loc>
+    <priority>0</priority>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="fr"
+                  href="https://phantoo.github.io/fr"
+                  />
+      
+    </url>
+  
+  <url><loc>https://phantoo.github.io/tags
+    </loc>
+    <priority>0</priority>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="fr"
+                  href="https://phantoo.github.io/fr/tags"
+                  />
+      
+    </url>
+  
+</urlset>
