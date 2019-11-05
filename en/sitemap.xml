@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url><loc>http://Phantoo.github.io/about
+  <url><loc>https://Phantoo.github.io/about
     </loc>
       <xhtml:link
                   rel="alternate"
                   hreflang="fr"
-                  href="http://Phantoo.github.io/fr/about"
+                  href="https://Phantoo.github.io/fr/about"
                   />
       
     </url>
@@ -16,57 +16,57 @@
   
   <url></url>
   
-  <url><loc>http://Phantoo.github.io/work
+  <url><loc>https://Phantoo.github.io/work
     </loc>
       <xhtml:link
                   rel="alternate"
                   hreflang="fr"
-                  href="http://Phantoo.github.io/fr/work"
+                  href="https://Phantoo.github.io/fr/work"
                   />
       
     </url>
   
-  <url><loc>http://Phantoo.github.io/contact
+  <url><loc>https://Phantoo.github.io/contact
     </loc>
       <xhtml:link
                   rel="alternate"
                   hreflang="fr"
-                  href="http://Phantoo.github.io/fr/contact"
+                  href="https://Phantoo.github.io/fr/contact"
                   />
       
     </url>
   
   <url></url>
   
-  <url><loc>http://Phantoo.github.io/categories
+  <url><loc>https://Phantoo.github.io/categories
     </loc>
     <priority>0</priority>
       <xhtml:link
                   rel="alternate"
                   hreflang="fr"
-                  href="http://Phantoo.github.io/fr/categories"
+                  href="https://Phantoo.github.io/fr/categories"
                   />
       
     </url>
   
-  <url><loc>http://Phantoo.github.io
+  <url><loc>https://Phantoo.github.io
     </loc>
     <priority>0</priority>
       <xhtml:link
                   rel="alternate"
                   hreflang="fr"
-                  href="http://Phantoo.github.io/fr"
+                  href="https://Phantoo.github.io/fr"
                   />
       
     </url>
   
-  <url><loc>http://Phantoo.github.io/tags
+  <url><loc>https://Phantoo.github.io/tags
     </loc>
     <priority>0</priority>
       <xhtml:link
                   rel="alternate"
                   hreflang="fr"
-                  href="http://Phantoo.github.io/fr/tags"
+                  href="https://Phantoo.github.io/fr/tags"
                   />
       
     </url>
